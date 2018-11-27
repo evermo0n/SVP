@@ -1,0 +1,5 @@
+public class Main {
+public tatic void main (String[] args) {
+System.out.println("It's example");
+}
+}
